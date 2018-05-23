@@ -1,0 +1,7 @@
+[Заклинание] ID 31848 Щит храмовника
+При применении заклинания Щит мстителя на игрока с вкаченым талантом Щит храмовника 3/3 должен вешаться сайленс на противника.
+Баг заключается в том, что сайленс можно снять Божественным щитом(баблом), чего не должно быть исходя из информации на 
+wowwiki - ref: http://wowwiki.wikia.com/wiki/Shield_of_the_Templar 
+(Patch 3.1.0 (14-Apr-2009): Now no longer increases the damage done by Holy Shield, Avenger's Shield, 
+and Shield of Righteousness. Now grants 33/66/100% chance to silence your Avenger's Shield targets for 3 seconds.)
+Подробнее про сайленс с ДБ Л3 - http://db.logon3.com/?spell=53711 и http://db.logon3.com/?spell=63529
